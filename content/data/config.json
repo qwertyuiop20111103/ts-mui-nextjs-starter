@@ -6,7 +6,7 @@
         "navLinks": [
             {
                 "type": "Link",
-                "label": "Home",
+                "label": "首页",
                 "url": "/",
                 "underline": "hover"
             },
